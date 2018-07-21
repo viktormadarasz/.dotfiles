@@ -1,0 +1,32 @@
+<bookmarks>
+  <group name="root">
+    <group name="UK">
+    <group name="BBC">
+      <bookmark name="BBC 1" url="http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio1_mf_p"/>
+      <bookmark name="BBC Radio 1 Extra" url="http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio1xtra_mf_p"/>
+      <bookmark name="BBC Radio 2" url="http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio2_mf_p"/>
+      <bookmark name="BBC Radio 3" url="http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio3_mf_p"/>
+      <bookmark name="BBC Radio 4" url="http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio4fm_mf_p"/>
+      <bookmark name="BBC Radio 4 Extra" url="http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio4extra_mf_p"/>
+      <bookmark name="BBC Radio 5 Live" url="http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio5live_mf_p"/>
+      <bookmark name="BBC Radio 5 Live Sports Extra" url="http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio5extra_mf_p"/>
+      <bookmark name="BBC Radio 6" url="http://bbcmedia.ic.llnwd.net/stream/bbcmedia_6music_mf_p"/>
+      <bookmark name="BBC Radio Asian Network" url="http://bbcmedia.ic.llnwd.net/stream/bbcmedia_asianet_mf_p"/>
+      <bookmark name="BBC Radio World Service" url="http://bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-eieuk"/>
+    </group>
+    <group name="Other">
+      <bookmark name="LBC Radio" url="http://media-the.musicradio.com:80/LBCLondon"/>
+      <bookmark name="Rock FM UK" url="https://stream-mz.planetradio.co.uk/rock.aac?direct=true&listenerid=undefined&amsparams=playerid:BMUK_html5;skey:1531553804;&awparams=loggedin:false;&aw_0_req.gdpr=true"/>
+    </group>
+    </group>
+    <group name="ES">
+      <bookmark name="Cadena 100" url="http://195.55.74.212/cope/cadena100.mp3"/>
+      <bookmark name="Europa FM" url="http://server6.20comunicacion.com:8102/;920053733102894stream.nsv"/>
+      <bookmark name="Kiss FM" url="http://kissfm.kissfmradio.cires21.com/kissfm.mp3"/>
+      <bookmark name="Rock FM Spain" url="http://195.55.74.211/cope/rockfm-low.mp3"/>
+    </group>
+    <group name="HU">
+      <bookmark name="Radio 1 Budapest" url="http://213.181.210.106:80/high.mp3"/>
+    </group>
+    </group>
+</bookmarks>    
